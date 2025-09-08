@@ -1,0 +1,7 @@
+# Ignore downloaded official  course notes
+/materials/
+
+# Ignore environment files
+.conda
+.vscode
+.DS_Store
